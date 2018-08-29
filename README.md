@@ -1,5 +1,5 @@
 # New_Faker_Locale
-During our bootcamp cohort one of our classmates had particularly memorable quotes.  I turned them into a faker locale for unit testing, or placeholder seed info.
+During our bootcamp cohort, one of our classmates had particularly memorable quotes.  I turned them into a faker locale for unit testing, or placeholder seed info.
 
 For use with the Faker ruby gem.
 
